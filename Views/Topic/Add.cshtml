@@ -1,0 +1,20 @@
+﻿@model DevNet.Models.Topic
+@{
+	Layout = "_Layout";
+	ViewData["Title"] = "Add Topic";
+}
+<form asp-action="Add" asp-controller="Topic" method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label asp-for="image">Image:</label>
+		<input asp-for="image" type ="file" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Title">Title:</label>
+		<input asp-for="Title" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Description">Description:</label>
+		<textarea asp-for="Description" class="form-control"></textarea>
+	</div>
+	<button type="submit" class="btn btn-primary">Add Topic</button>
+</form>

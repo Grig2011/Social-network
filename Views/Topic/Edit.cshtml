@@ -1,0 +1,20 @@
+﻿@model DevNet.Models.Topic
+@{
+	Layout = "_Layout";
+	ViewData["Title"] = "Edit Topic";
+}
+<form asp-action="Edit" asp-controller="Topic" method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label asp-for="image" >Image:</label>
+		<input asp-for="image" value="@Model.image" type="file" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Title">Title:</label>
+		<input asp-for="Title" value ="@Model.Title"class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Description">Description:</label>
+		<textarea asp-for="Description" value ="@Model.Description" class="form-control"></textarea>
+	</div>
+	<button type="submit" class="btn btn-primary">Edit Topic</button>
+</form>

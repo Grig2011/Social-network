@@ -1,0 +1,14 @@
+﻿.topic-card {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: 0.2s ease;
+}
+
+    .topic-card:hover {
+        transform: scale(1.03);
+    }
+
+.topic-img {
+    height: 200px;
+    object-fit: cover;
+}

@@ -1,0 +1,12 @@
+﻿namespace DevNet.Models
+{
+    public class Follow
+    {
+        public int Id { get; set; }
+        public int FollowerId { get; set; }
+
+        public int FollowingId { get; set; }
+
+        public ApplicationUser ApplicationUser { get; set; }
+    }
+}

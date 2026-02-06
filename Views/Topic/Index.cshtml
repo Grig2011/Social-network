@@ -1,0 +1,52 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "All Topics";
+}
+@model List<DevNet.Models.Topic>
+<link href="~/css/topic.css" rel="stylesheet" />
+<h1 class="mb-4">All Topics</h1>
+
+<a asp-action="Add" asp-controller="Topic" class="btn btn-primary mb-4">
+    Add New Topic
+</a>
+
+<div class="row">
+    @foreach (var topic in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm topic-card">
+
+                <img src="~/Images/topic/@topic.image"
+                     class="card-img-top topic-img"
+                     alt="Topic Image" />
+
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">@topic.Title</h5>
+                    <p class="card-text">@topic.Description</p>
+                    <p class="text-muted small mt-auto">
+                        @topic.CreatedAt.ToShortDateString()
+                    </p>
+
+                    <div class="d-flex gap-2">
+                        <a asp-action="Edit"
+                           asp-route-id="@topic.Id"
+                           class="btn btn-warning btn-sm w-100">
+                            Edit
+                        </a>
+
+                        <form asp-action="Delete"
+                              asp-route-id="@topic.Id"
+                              method="post"
+                              class="w-100">
+                            <button type="submit"
+                                    class="btn btn-danger btn-sm w-100">
+                                Delete
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>
