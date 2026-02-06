@@ -1,364 +1,368 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DevNet.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DevNet.3mdfajhgt9.bundle.scp.css"
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DevNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DevNet.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\2111b50f-c0bf-493d-adca-b42cb65ff6b0.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\2111b50f-c0bf-493d-adca-b42cb65ff6b0.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\2111b50f-c0bf-493d-adca-b42cb65ff6b0.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\2a752505-e705-4c9e-b408-619f795695e4.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\2a752505-e705-4c9e-b408-619f795695e4.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\2a752505-e705-4c9e-b408-619f795695e4.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\30859e15-3993-4db4-bce0-adb5081d6232.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\30859e15-3993-4db4-bce0-adb5081d6232.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\30859e15-3993-4db4-bce0-adb5081d6232.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\3ce45aed-c39b-4a01-b1d4-958e9be28658.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\3ce45aed-c39b-4a01-b1d4-958e9be28658.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\3ce45aed-c39b-4a01-b1d4-958e9be28658.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\3e40925a-b46f-4c2d-bc2d-a5c4f7eec308.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\3e40925a-b46f-4c2d-bc2d-a5c4f7eec308.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\3e40925a-b46f-4c2d-bc2d-a5c4f7eec308.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\502a4b40-d3f3-4377-ac6b-50285c25fddd.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\502a4b40-d3f3-4377-ac6b-50285c25fddd.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\502a4b40-d3f3-4377-ac6b-50285c25fddd.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\5dfce413-f816-4d8d-84bc-00a9102a1957.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\5dfce413-f816-4d8d-84bc-00a9102a1957.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\5dfce413-f816-4d8d-84bc-00a9102a1957.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\7535e799-b75f-4aab-b8a8-2bf772792a81.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\7535e799-b75f-4aab-b8a8-2bf772792a81.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\7535e799-b75f-4aab-b8a8-2bf772792a81.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\7dc856ce-9ae8-4daa-ba3a-3a99f56f9705.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\7dc856ce-9ae8-4daa-ba3a-3a99f56f9705.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\7dc856ce-9ae8-4daa-ba3a-3a99f56f9705.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\81460427-e424-4aeb-b32e-ced145c97f16.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\81460427-e424-4aeb-b32e-ced145c97f16.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\81460427-e424-4aeb-b32e-ced145c97f16.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\8b7184dc-2ef1-4928-bb35-b26a6f791c68.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\8b7184dc-2ef1-4928-bb35-b26a6f791c68.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\8b7184dc-2ef1-4928-bb35-b26a6f791c68.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\8e4992c4-cb07-4ef2-a2d4-3d0b20991867.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\8e4992c4-cb07-4ef2-a2d4-3d0b20991867.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\8e4992c4-cb07-4ef2-a2d4-3d0b20991867.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\997d7b58-1b7a-4482-aa86-25127083fac6.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\997d7b58-1b7a-4482-aa86-25127083fac6.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\997d7b58-1b7a-4482-aa86-25127083fac6.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\a46f9809-f607-4f81-9172-6ed1c0f92bc9.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\a00cab5c-3da3-4f12-8468-ac7540bfc547.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\a00cab5c-3da3-4f12-8468-ac7540bfc547.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\a46f9809-f607-4f81-9172-6ed1c0f92bc9.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\a46f9809-f607-4f81-9172-6ed1c0f92bc9.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\c778c3b4-75a2-4202-a7ee-c0d4e2de7f23.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\c778c3b4-75a2-4202-a7ee-c0d4e2de7f23.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\c778c3b4-75a2-4202-a7ee-c0d4e2de7f23.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\eed4b409-1ae4-42c3-aecc-fd1cccc96120.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\e6e055f0-4e7c-48a6-9a28-2d49a4e669a9.png",
+      "PackagePath": "staticwebassets\\Images\\Posts\\e6e055f0-4e7c-48a6-9a28-2d49a4e669a9.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\eed4b409-1ae4-42c3-aecc-fd1cccc96120.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\eed4b409-1ae4-42c3-aecc-fd1cccc96120.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Posts\\ffd91b80-ab39-492d-88f4-edda769d5452.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Posts\\ffd91b80-ab39-492d-88f4-edda769d5452.png",
       "PackagePath": "staticwebassets\\Images\\Posts\\ffd91b80-ab39-492d-88f4-edda769d5452.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\18db3d86-2e55-434f-8d1e-1ac13414a7ac.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\18db3d86-2e55-434f-8d1e-1ac13414a7ac.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\18db3d86-2e55-434f-8d1e-1ac13414a7ac.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\26db641c-27b4-4ca0-90ef-0a30b9fcdddb.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\26db641c-27b4-4ca0-90ef-0a30b9fcdddb.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\26db641c-27b4-4ca0-90ef-0a30b9fcdddb.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\4305bc1e-0a3b-428f-a819-a88390d30000.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\4305bc1e-0a3b-428f-a819-a88390d30000.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\4305bc1e-0a3b-428f-a819-a88390d30000.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\84611699-aacc-44da-9f95-d7cf6cfbf096.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\84611699-aacc-44da-9f95-d7cf6cfbf096.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\84611699-aacc-44da-9f95-d7cf6cfbf096.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\852ce275-4a5a-4ec9-88b7-29600c52003f.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\852ce275-4a5a-4ec9-88b7-29600c52003f.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\852ce275-4a5a-4ec9-88b7-29600c52003f.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\992a07f0-8d70-4c3d-a2ad-6c4fe602ba12.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\992a07f0-8d70-4c3d-a2ad-6c4fe602ba12.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\992a07f0-8d70-4c3d-a2ad-6c4fe602ba12.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\ef7045aa-076d-4a8e-a845-d2ef8bbab47b.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\ef7045aa-076d-4a8e-a845-d2ef8bbab47b.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\ef7045aa-076d-4a8e-a845-d2ef8bbab47b.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\Images\\Topic\\fb4510c8-6326-49ab-9d0e-866342648f76.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\Images\\Topic\\fb4510c8-6326-49ab-9d0e-866342648f76.png",
       "PackagePath": "staticwebassets\\Images\\Topic\\fb4510c8-6326-49ab-9d0e-866342648f76.png"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\css\\Post.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\css\\Post.css",
       "PackagePath": "staticwebassets\\css\\Post.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\css\\Topic.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\css\\Topic.css",
       "PackagePath": "staticwebassets\\css\\Topic.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\js\\hub.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\js\\hub.js",
       "PackagePath": "staticwebassets\\js\\hub.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\gyega\\source\\repos\\DevNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\GrigProject\\Social-network\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DevNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DevNet.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -61,6 +61,10 @@ namespace DevNet.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(Post model, IFormFile Image)
         {
+            var currentPost = await _postService.GetPostById(model.Id);
+            currentPost.Title = model.Title;
+            currentPost.Content = model.Content;
+
             if (Image != null)
             {
                 string fileName = Guid.NewGuid() + Path.GetExtension(Image.FileName);
@@ -72,15 +76,11 @@ namespace DevNet.Controllers
                 {
                     await Image.CopyToAsync(fileStream);
                 }
-                Console.WriteLine(fileName + " ------");
 
-                model.image = fileName;
-                await _postService.Edit(model);
-                return RedirectToAction("Index");
-
-
+                currentPost.image = fileName;
             }
-            await _postService.Edit(model);
+
+            await _postService.Edit(currentPost);
             return RedirectToAction("Index");
         }
         [HttpPost]

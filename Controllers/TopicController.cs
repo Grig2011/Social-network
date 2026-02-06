@@ -70,6 +70,13 @@ namespace DevNet.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(Models.Topic model, IFormFile Image)
         {
+            var currentThopic = await _topicService.GetTopicById(model.Id);
+            currentThopic.Title = model.Title;
+            currentThopic.Description = model.Description;
+
+            ViewBag.ChangedDate = DateTime.Now;  
+
+
             if (Image != null)
             {
                 string fileName = Guid.NewGuid() + Path.GetExtension(Image.FileName);
@@ -83,14 +90,12 @@ namespace DevNet.Controllers
                 }
                 Console.WriteLine(fileName + " ------");
 
-                model.image = fileName;
+                currentThopic.image = fileName;
 
-                await _topicService.UpdateTopic(model);
-                return RedirectToAction("Index");
 
 
             }
-            await _topicService.UpdateTopic(model);
+            await _topicService.UpdateTopic(currentThopic);
             return RedirectToAction("Index");
         }
 
